@@ -1,0 +1,20 @@
+20 1 Sean Maguire 1994 seanm89@gmail.com uk economy 3 2 
+6 Alexandre Pato 1989 alexpato@outlook.com asia business 7 2 
+3 Tim Cahill 1979 timcahill@yahoo.com australasia premium 4 1 
+8 Antoine Griezmann 1991 griezi@gmail.com RestOfEurope business 5 6 
+17 Alex Ferguson 1941 Fergie@gmail.com uk firstclass 9 12 
+2 Edgar Davids 1973 edgardavids@outlook.com restofeurope premium 2 2 
+13 Mohamed Salah 1992 salah@gmail.com uk economy 1 8 
+4 Marek Hamsik 1987 hamsik@napoli.com restofeurope firstclass 7 4 
+9 Ricardo Carvalho 1978 rc@yahoo.com asia business 9 9 
+20 Harry Kewell 1978 hk@gmail.com australasia premium 6 5 
+16 Zlatan Ibrahimovic 1981 zlatan@god.com americas firstclass 5 9 
+12 Chris Smalling 1989 mikesmalling@outlook.com uk business 7 4 
+7 Alex Teixeira 1990 teixeira90@money.com asia firstclass 5 9 
+14 Jesse Lingard 1992 jlingz@gmail.com uk business 1 5 
+15 David Villa 1981 dvilla@gmail.com americas firstclass 1 7 
+11 Mark Viduka 1975 viduka@outlook.com australasia premium 4 3 
+5 Bastian Schweinsteiger 1984 basti@gmail.com americas business 1 8 
+19 Didier Drogba 1978 drogba@gmail.com americas premium 7 4 
+10 Fabio Cannovaro 1973 rc@yahoo.com asia firstclass 7 7 
+18 Tom Rogic 1992 tr@outlook.com australasia economy 3 2 
